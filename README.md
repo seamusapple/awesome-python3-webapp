@@ -1,6 +1,8 @@
 # awesome-python3-webapp
+
 学习Python3练习项目
 
+```
 awesome-python3-webapp/  <-- 根目录
 |
 +- backup/               <-- 备份目录
@@ -18,3 +20,4 @@ awesome-python3-webapp/  <-- 根目录
 +- ios/                  <-- 存放iOS App工程
 |
 +- LICENSE               <-- 代码LICENSE
+```
